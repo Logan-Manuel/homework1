@@ -12,7 +12,10 @@
     
  
  <a class="btn btn-primary" href="index.html" role="button">Home</a>
- 
+
+<a class="btn btn-primary" href="page3" role="button">Page 3</a>
+ <a class="btn btn-primary" href="page4" role="button">Page 4</a>
+    <a class="btn btn-primary" href="page5" role="button">Page 5</a>
  
  <div class="accordion" id="accordionExample">
   <div class="accordion-item">
