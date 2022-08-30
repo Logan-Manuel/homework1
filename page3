@@ -8,15 +8,6 @@
   <body>
     <h1>Hello, world!</h1>
     
-    <!-- Background image -->
-<div
-  class="bg-image"
-  style="
-    background-image: url('https://www.bing.com/images/search?view=detailv2&form=SBIHVR&lightschemeovr=1&iss=sbi&q=imgurl:http%3A%2F%2Fnebula.wsimg.com%2F08da83d40832bad6179a315984403d4e%3FAccessKeyId%3D96C777D772D79732B876%26disposition%3D0%26alloworigin%3D1&pageurl=http%3A%2F%2Fwww.oklahomarugby.org%2F&pagetl=Oklahoma+University+Men%27s+Rugby+Team&imgsz=450x557&selectedindex=0&id=https%3A%2F%2Fres.cloudinary.com%2Fteepublic%2Fimage%2Fprivate%2Fs--kKgnADyr--%2Ft_Preview%2Fb_rgb%3A6e2229%2Cc_limit%2Cf_auto%2Ch_630%2Cq_90%2Cw_630%2Fv1610476977%2Fproduction%2Fdesigns%2F18439666_0.jpg&mediaurl=https%3A%2F%2Fres.cloudinary.com%2Fteepublic%2Fimage%2Fprivate%2Fs--kKgnADyr--%2Ft_Preview%2Fb_rgb%3A6e2229%2Cc_limit%2Cf_auto%2Ch_630%2Cq_90%2Cw_630%2Fv1610476977%2Fproduction%2Fdesigns%2F18439666_0.jpg&exph=630&expw=630&vt=2&thid=OIP.bzic2aDygi8ARFbyG8OsvgHaHa&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.6f389cd9a0f2822f004456f21bc3acbe%3Frik%3DlQOJsyLFweVY7Q%26pid%3DImgRaw%26r%3D0&sim=1');
-    height: 100vh;
-  "
-></div>
-<!-- Background image -->
     
   </body>
 </html>
