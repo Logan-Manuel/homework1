@@ -1,0 +1,36 @@
+nav {
+    background-color: black;
+    height: 100vh;
+    float: left;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a {
+    background-color: white;
+    display: block;
+    padding: 1em 1.5em;
+    margin: 5px;
+    border-radius: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-decoration-color: red;
+}
+
+#Info {
+    background-color: gray;
+    border: 5px solid black;
+    padding: 15px;
+    margin: 25px;
+    width: fit-content;
+    float: left;
+}
+
+#Main {
+    float: right;
+    display: block
+}
